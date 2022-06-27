@@ -1,0 +1,137 @@
+[
+    {
+        "user": {
+            "username": "joe-adam",
+            "name": "Joe Adams",
+            "profile_picture": "/images/current_user.jpg"
+        },
+        "posts": [
+            {
+                "id": "8402678390264947303",
+                "user": {
+                    "username": "",
+                    "name": "Tier5",
+                    "profile_picture": "/images/tier5_pp.png",
+                    "post_text": "One of the major hacks for connecting with your target audiences and\n prospective leads is wishing them on their birthdays. Birthdays are special and\n everyone loves to feel special on this day. However, sometimes it becomes quite\n impossible to track people's birthdays from our friendlist." ,
+                "post_image": "/images/tier5.png"
+                },
+                "posted_on": "9h",
+                "likes": 10,
+                "liked": true,
+                "comments": [
+                    {
+                        "text": "This will be a really useful tool...",
+                        "created_at": "1617220982",
+                        "user": {
+                            "username": "adam",
+                            "name": "Raj Joshi",
+                            "profile_picture": "images/img2.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "8402678390264947303",
+                "user": {
+                    "username": "Maya Sarabhai",
+                    "name": "Maya Sarabhai",
+                    "profile_picture": "/images/maya.jpeg",
+                    "post_text": "Monisha, please call it Ocra. Ladys finger sounds so Swara Bhaskarly middle class and Bhindi is  completely pedestrian, beta.",
+                    "post_image": "/images/ocra.jfif"
+                },
+                "posted_on": "12h",
+                "likes": 10,
+                "liked": true,
+                "comments": [ {
+                    "text": "You are so sophisticated and cultured..I love you Momma <3",
+                    "created_at": "1617220982",
+                    "user": {
+                        "username": "rosesh",
+                        "name": "Roshesh Sarabhai",
+                        "profile_picture": "images/roshesh.jfif"
+                    }
+                },
+                    
+                   
+                    {
+                        "text": "@maya and @chambu, Bas karo Sindrella ki sauteli baheno....",
+                        "created_at": "1617220982",
+                        "user": {
+                            "username": "indu",
+                            "name": "Indravadan Sarabhai",
+                            "profile_picture": "/images/indu.jfif"
+                        }
+                    },
+                    {
+                        "text": "Sabji vale bhaiya Ocra me nahi samajte, mummyji...social media pe to tana mat mariye..",
+                        "created_at": "1617220982",
+                        "user": {
+                            "username": "monisha",
+                            "name": "Monisha Sarabhai",
+                            "profile_picture": "/images/monisha.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "8402678390264947303",
+                "user": {
+                    "username": "deepika",
+                    "name": "Deepika Padukone",
+                    "profile_picture": "/images/image5.jfif",
+                    "post_text": "Hello There!!",
+                    "post_image": "/images/deepu.jpg"
+                },
+                "posted_on": "21h",
+                "likes": 10,
+                "liked": true,
+                "comments": [
+                    {
+                        "text": "Breathtaking",
+                        "created_at": "1617220980",
+                        "user": {
+                            "username": "adam",
+                            "name": "Riya Joshi",
+                            "profile_picture": "images/raj.jfif"
+                        }
+                    },
+                    {
+                        "text": "Stunning wify  <3",
+                        "created_at": "1617220981",
+                        "user": {
+                            "username": "adam",
+                            "name": "Ravnveer Singh",
+                            "profile_picture": "images/ranveer.jfif"
+                        }
+                    }
+                ]
+            },
+                
+            {
+                "id": "8402678390264947303",
+                "user": {
+                    "username": "Raj Joshi",
+                    "name": "Raj Joshi",
+                    "profile_picture": "/images/raj.jfif",
+                    "post_text": "#goGreen",
+                    "post_image": "/images/gogreen.jpg"
+                },
+                "posted_on": "21h",
+                "likes": 10,
+                "liked": true,
+                "comments": [
+                    {
+                        "text": "Go green, Save Earth.!",
+                        "created_at": "1617220982",
+                        "user": {
+                            "username": "adam",
+                            "name": "Adam",
+                            "profile_picture": "images/img1.png"
+                        }
+                    }
+                ]
+            }
+           
+        ]
+    }
+]
